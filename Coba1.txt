@@ -1,2 +1,3 @@
 123
 Coba1 tes1
+ini tes2
